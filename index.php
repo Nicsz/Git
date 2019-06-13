@@ -10,6 +10,11 @@
 <body>
     <h1>Hello world!</h1>
     <h2>Something</h2>
+<<<<<<< HEAD
     <p>Text</p>
+=======
+    <p>....</p>
+    aesdaefdsfads
+>>>>>>> my-first
 </body>
 </html>
